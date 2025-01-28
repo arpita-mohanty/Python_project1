@@ -17,3 +17,6 @@ Visualization of predictions and urban air quality mapping.
 
 Applications:
 This project helps predict urban air quality trends, identify pollution hotspots, and support urban planning and environmental policies.
+
+## License
+All rights reserved. No part of this project, its code, or ideas may be used, copied, modified, or distributed without explicit permission from the author.
