@@ -9,11 +9,11 @@ Model Training and Optimization: Includes hyperparameter tuning using Optuna and
 Performance Evaluation: Assesses model accuracy using metrics such as Mean Squared Error (MSE), Root Mean Squared Error (RMSE), and R-squared (R²).
 Mapping and Visualization: Provides air quality mapping and visual analytics for better interpretation of results.
 
-Project Workflow
+Project Workflow:
 Data preprocessing and feature engineering.
 Transformer model training with hyperparameter optimization.
 Evaluation using cross-validation and error metrics.
 Visualization of predictions and urban air quality mapping.
 
-Applications
+Applications:
 This project helps predict urban air quality trends, identify pollution hotspots, and support urban planning and environmental policies.
